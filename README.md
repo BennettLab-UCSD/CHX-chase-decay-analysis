@@ -97,7 +97,7 @@ Rscript CHX_decay_plot.R [gene_symbol] [--global]
    ```bash
    Rscript CHX_decay_plot.R IP6K2 --global
    ```
-   *Also generates `Figure_CHX_GlobalMedian.svg` ($85 \times 65\text{ mm}$) showing proteome-wide median decay with 95% bootstrap confidence bands.*
+   *Also generates `Figure_CHX_GlobalMedian.svg` showing proteome-wide median decay with 95% bootstrap confidence bands.*
 
 **Figure Characteristics:**
 - **Normalization**: Intensities are normalized to each group's own $0\text{ h}$ mean, isolating decay kinetics from baseline expression differences.
