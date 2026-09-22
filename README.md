@@ -86,7 +86,7 @@ Rscript CHX_decay_plot.R [gene_symbol] [--global]
    ```bash
    Rscript CHX_decay_plot.R IP6K2
    ```
-   *Generates `2026Figure_CHX_IP6K2.svg` ($88 \times 70\text{ mm}$).*
+   *Generates `2026Figure_CHX_IP6K2.svg`.*
 
 2. Plot another gene:
    ```bash
